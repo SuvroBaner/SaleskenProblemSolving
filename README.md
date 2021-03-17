@@ -27,9 +27,11 @@ For example : Say there are 4 sentences as an input list -
 ["Football is played in Brazil" ,
 "Cricket is played in India",
 "Traveling is good for health",
-"People love traveling in winter"]
+"People love traveling in winter",
+"We are excited to work with you in Salesken"]
 
-Output : [["Football is played in Brazil" , "Cricket is played in India"], ["Traveling is good for health", "People love traveling in winter"]]
+Output : [["Football is played in Brazil" , "Cricket is played in India"], ["Traveling is good for health", "People love traveling in winter"],
+"We are excited to work with you in Salesken"]
 
 
 All the best ...
